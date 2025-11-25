@@ -1,0 +1,15 @@
+Byte-compiled / optimized / DLL files
+
+pycache/ *.py[cod]
+
+Data
+
+*.zip
+
+Jupyter / plots
+
+.ipynb_checkpoints/ .png .pdf
+
+Environments
+
+.venv
