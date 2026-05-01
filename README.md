@@ -1,7 +1,7 @@
 # University Football Player Injury Predictions
 
 This project analyzes a football player dataset to predict the
-likelihood of injury in the next season.\
+likelihood of injury in the next season.
 It uses a Kaggle dataset and trains a **Logistic Regression** model with
 feature engineering for lifestyle and physical metrics.
 
